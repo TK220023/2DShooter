@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 978fceb65861f954187f2db1c0ca3e8b
+  - enabled: 1
+    path: Assets/Scenes/Sky.unity
+    guid: e970841af3d3b00449a8a95cd35cc239
+  - enabled: 1
+    path: Assets/Scenes/RetryScene.unity
+    guid: 66d8a6db8dc91b441a6bb53986869065
+  - enabled: 1
+    path: Assets/Scenes/ClearScene.unity
+    guid: efacdef543330dc4397496c516823d95
+  m_configObjects: {}
